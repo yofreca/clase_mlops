@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/0/39ad5ef6da664908a39c5ab3ca1b3f0f/artifacts
+end_time: 1743723402483
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39ad5ef6da664908a39c5ab3ca1b3f0f
+run_name: LightGBM RandomizedSearch
+run_uuid: 39ad5ef6da664908a39c5ab3ca1b3f0f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743723397006
+status: 3
+tags: []
+user_id: Usuario
