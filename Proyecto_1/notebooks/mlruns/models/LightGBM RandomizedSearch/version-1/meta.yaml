@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744333447396
+current_stage: None
+description: ''
+last_updated_timestamp: 1744333447396
+name: LightGBM RandomizedSearch
+run_id: 1dc6ea20424047c8bf35b118ef6c6a0d
+run_link: ''
+source: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/946017762957733847/1dc6ea20424047c8bf35b118ef6c6a0d/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/946017762957733847/1dc6ea20424047c8bf35b118ef6c6a0d/artifacts/model
+user_id: null
+version: 1

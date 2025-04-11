@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/547667526282479684/59626ab8f796414ea09b0b35c3aa91a7/artifacts
+end_time: 1744330886435
+entry_point_name: ''
+experiment_id: '547667526282479684'
+lifecycle_stage: active
+run_id: 59626ab8f796414ea09b0b35c3aa91a7
+run_name: Random Forest
+run_uuid: 59626ab8f796414ea09b0b35c3aa91a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744330882938
+status: 3
+tags: []
+user_id: Usuario

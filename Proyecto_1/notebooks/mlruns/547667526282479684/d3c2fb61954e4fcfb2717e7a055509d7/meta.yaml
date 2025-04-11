@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/547667526282479684/d3c2fb61954e4fcfb2717e7a055509d7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '547667526282479684'
+lifecycle_stage: active
+run_id: d3c2fb61954e4fcfb2717e7a055509d7
+run_name: SVM
+run_uuid: d3c2fb61954e4fcfb2717e7a055509d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744331050387
+status: 1
+tags: []
+user_id: Usuario

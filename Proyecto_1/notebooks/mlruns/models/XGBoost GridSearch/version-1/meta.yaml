@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1744333686437
+current_stage: None
+description: ''
+last_updated_timestamp: 1744333686437
+name: XGBoost GridSearch
+run_id: 67b684883f6e47a99dab5b9ee88d8231
+run_link: ''
+source: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/946017762957733847/67b684883f6e47a99dab5b9ee88d8231/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/MLOPS/clase_mlops/Proyecto_1/notebooks/mlruns/946017762957733847/67b684883f6e47a99dab5b9ee88d8231/artifacts/model
+user_id: null
+version: 1
